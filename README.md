@@ -5,11 +5,11 @@ A simple, command-line based URL shortener written in Python. This project allow
 ## 📁 File Structure
 
 url-shortener/
-├── shortener.py # Core logic (shorten/expand)
-├── app.py # CLI interface
-├── data.json # Stores URL mappings
-├── programexec.png # Image displaying an example case
-├── README.md # You're reading it!
+- shortener.py # Core logic (shorten/expand)
+- app.py # CLI interface
+- data.json # Stores URL mappings
+- programexec.png # Image displaying an example case
+- README.md # You're reading it!
 
 ---
 
