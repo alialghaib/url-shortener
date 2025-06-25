@@ -2,15 +2,14 @@
 
 A simple, command-line based URL shortener written in Python. This project allows you to generate short codes for long URLs and retrieve them later — all stored locally in a JSON file.
 
-File Structure:
+## 📁 File Structure
 
 url-shortener/
-├── shortener.py      # Core logic (shorten/expand)
-├── app.py            # CLI interface
-├── data.json         # Stores URL mappings
-├── programexec       # image displaying an example case
-├── README.md         # You're reading it!
-
+├── shortener.py # Core logic (shorten/expand)
+├── app.py # CLI interface
+├── data.json # Stores URL mappings
+├── programexec.png # Image displaying an example case
+├── README.md # You're reading it!
 
 ---
 
